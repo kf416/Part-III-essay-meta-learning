@@ -1,0 +1,3 @@
+from .bnn_classification_svgd import BayesianNeuralNetwork_classification_SVGD
+from .bnn_svgd import BayesianNeuralNetworkSVGD
+from .bnn_vi import BayesianNeuralNetworkVI
